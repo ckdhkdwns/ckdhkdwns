@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zhdqks})](https://solved.ac/{zhdqks})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ccoco})](https://solved.ac/{ccoco})
 <!--
 **ehyuo/ehyuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
