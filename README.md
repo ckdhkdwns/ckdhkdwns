@@ -1,8 +1,8 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ccoco})](https://solved.ac/{ccoco})
+프로필]()](https://solved.ac/{ccoco})
 <!--
 **ehyuo/ehyuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zhdqks">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
