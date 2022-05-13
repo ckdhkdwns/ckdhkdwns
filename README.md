@@ -1,4 +1,4 @@
-### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={ehyuo})](https://solved.ac/{ehyuo})
 
 <!--
 **ehyuo/ehyuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
